@@ -1,5 +1,5 @@
 server:
-  port: 8080
+  port: ${PORT:8080}
   ssl:
     key-store: classpath:client/apigw.jks
     key-store-password: s3cr3t
