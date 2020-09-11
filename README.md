@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sambamitra/api-gateway.svg?branch=master)](https://travis-ci.org/sambamitra/api-gateway)
+[![Build Status](https://travis-ci.org/sambamitra/api-gateway.svg?branch=main)](https://travis-ci.org/sambamitra/api-gateway)
 # API Gateway
 This is an Api Gateway project used for orchestration between microservices.
 
